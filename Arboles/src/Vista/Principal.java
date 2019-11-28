@@ -22,6 +22,7 @@ public class Principal extends javax.swing.JFrame {
     public ManejoArchivos mA = new ManejoArchivos();
     public Principal() {
         initComponents();
+        iniciarArbol(null);
     }
     private void iniciarArbol(Arbol a) {
         if(a==null) {
