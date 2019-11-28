@@ -9,7 +9,7 @@ import java.awt.Color;
 
 /**
  *
- * @author LABORATORIO UCV
+ * @author MIO
  */
 public class Circulo implements java.io.Serializable{
     public Color borde = Color.BLACK;

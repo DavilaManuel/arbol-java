@@ -7,7 +7,7 @@ package arboles;
 
 /**
  *
- * @author LABORATORIO UCV
+ * @author MIO
  */
 public class Nodo implements java.io.Serializable {
     private Nodo padre = null;

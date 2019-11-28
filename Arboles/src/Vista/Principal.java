@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author LABORATORIO UCV
+ * @author MIO
  */
 public class Principal extends javax.swing.JFrame {
 

@@ -9,7 +9,7 @@ import java.awt.Color;
 
 /**
  *
- * @author LABORATORIO UCV
+ * @author MIO
  */
 public class Linea implements java.io.Serializable {
     public Color color = Color.BLACK;

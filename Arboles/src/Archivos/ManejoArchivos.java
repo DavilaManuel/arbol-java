@@ -21,7 +21,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  *
- * @author LABORATORIO UCV
+ * @author MIO
  */
 public class ManejoArchivos {
     public void guardar(JFrame panel, Arbol a) {

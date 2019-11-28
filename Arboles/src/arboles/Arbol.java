@@ -13,7 +13,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author LABORATORIO UCV
+ * @author MIO
  */
 public class Arbol extends JPanel implements java.io.Serializable{
     public Nodo cabeza = null;
